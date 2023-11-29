@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeffandfriend1
 - 👀 I’m interested in ... desarrollo web
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... proyecto para obs studio
+- 💞️ I’m looking to collaborate on ... proyecto para desarrollar una ap para streaming
 - 📫 How to reach me ...
 
 <!---
